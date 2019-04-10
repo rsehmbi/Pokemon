@@ -1,0 +1,74 @@
+[
+  {
+    "id": 202,
+    "name": "Inasoras",
+    "weight": 254.12541254125415,
+    "height": 254.12541254125415,
+    "ability": "Electric",
+    "strength": 32,
+    "color": "0x4d66ccff"
+  },
+  {
+    "id": 697,
+    "name": "Dracula",
+    "weight": 326.73267326732673,
+    "height": 326.73267326732673,
+    "ability": "",
+    "strength": 60,
+    "color": "0xff8080ff"
+  },
+  {
+    "id": 6079,
+    "name": "Bulbasaur",
+    "weight": 122.11221122112212,
+    "height": 574.2574257425742,
+    "ability": "Water",
+    "strength": 44,
+    "color": "0x1a3399ff"
+  },
+  {
+    "id": 1742,
+    "name": "Ivysaur",
+    "weight": 151.81518151815183,
+    "height": 217.82178217821783,
+    "ability": "Electric",
+    "strength": 20,
+    "color": "0x664db3ff"
+  },
+  {
+    "id": 8096,
+    "name": "Venusaur",
+    "weight": 277.2277227722773,
+    "height": 514.8514851485148,
+    "ability": "Freeze",
+    "strength": 57,
+    "color": "0x996699ff"
+  },
+  {
+    "id": 6585,
+    "name": "Charmander",
+    "weight": 79.20792079207921,
+    "height": 759.075907590759,
+    "ability": "Fly",
+    "strength": 18,
+    "color": "0x996699ff"
+  },
+  {
+    "id": 5980,
+    "name": "Wartortle",
+    "weight": 283.8283828382838,
+    "height": 943.8943894389439,
+    "ability": "Electric",
+    "strength": 84,
+    "color": "0x994d66ff"
+  },
+  {
+    "id": 3334,
+    "name": "Beedrill",
+    "weight": 283.8283828382838,
+    "height": 283.8283828382838,
+    "ability": "Electric",
+    "strength": 28,
+    "color": "0xffcc99ff"
+  }
+]
